@@ -1,4 +1,4 @@
-# Olist End-to-End E-Commerce Analytics
+# E-Commerce Operations & Customer Analytics 
 
 ## Overview
 
